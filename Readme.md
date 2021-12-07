@@ -42,9 +42,7 @@ This will help in finding which parameter (weight, bias in this case) performs b
 Lower the loss function value, better the model will be. 
 
 
-Loss = (1/n) * sum((yi - y`i)**2)
-
-MSE = (∑128▒(y−y ̂ )^2 )/n    
+MSE = (∑(y−y ̂ )^2 )/n    
 where,
  n=number of samples.
  y = actual value
