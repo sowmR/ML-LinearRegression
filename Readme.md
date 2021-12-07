@@ -95,4 +95,7 @@ w[i] = w[i] - L*Dw[i]
 where , w[i] = i th weight.
 
 
-
+# use of google colab:
+  the csv files that are used in the google colab is given under the "data" folder. download them to your instance to be used in the code.  Google colab tends to remove the files once the kernal is shut down. This files have to be added everytime, the kernel is loaded. 
+  
+  
